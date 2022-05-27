@@ -1,22 +1,20 @@
-# 👋 Zod
-> Zod is a dashboard UI template built by [cssninjaStudio](https://cssninja.io).
+# Zod Lite - Alpine v3 Dashboard template
 
-[![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=join%20us%20on%20discord&color=6944EC)](https://discord.cssninja.io/)
+Zod Lite is a bulma dashboard kit built with Bulma 0.9.x and AlpineJS v3.x. Zod Lite is a demo version of Zod, our full dashboard UI Kit. Discover the full version here: [Full product demo](https://zod.csssninja.io).
 
 ![Screenshot](https://media.cssninja.io/products/zod/product.png "Zod")
 
 ## ✌️ preview
 
-Check out the live demo by clicking [here](https://zod.cssninja.io/). 
+Check out the live demo (full product) by clicking [here](https://zod.cssninja.io/). 
 Zod is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 
 * Gulp 4 and nodejs 12.13.0 (minimum)
-* Bulma 0.9.3
+* Bulma 0.9.x
 * ES6 support
-* Alpine v3
-* RTL support
+* Alpine v3.x
 
 ## 👌 Usage
 
@@ -34,7 +32,7 @@ yarn dev
 
 ## 🍬 Update template colors
 
-Zod is built with Sass but relies on native CSS variables with HSL for colors. To change the template theme colors:
+Zod Lite is built with Sass but relies on native CSS variables with HSL for colors. To change the template theme colors:
 
 * Open bulma-css-vars.config.js and change the HSL value of the primary color:
 
