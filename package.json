@@ -1,7 +1,7 @@
 {
-  "name": "zod",
+  "name": "zod-lite",
   "version": "0.0.0",
-  "description": "Bulma + AlpineJS Dashboard Kit",
+  "description": "Bulma + AlpineJS Dashboard Kit (Lite version)",
   "private": true,
   "author": {
     "name": "cssninjaStudio <hello@cssninja.io> (https://cssninja.io)"
