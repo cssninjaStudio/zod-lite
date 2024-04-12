@@ -278,9 +278,9 @@ $font-size: $width * 0.056;
 // Today's date
 .qs-current {
   font-family: var(--font);
-  background: var(--secondary) !important;
+  background: var(--primary) !important;
   color: var(--white) !important;
-  box-shadow: var(--secondary-box-shadow);
+  box-shadow: var(--primary-box-shadow);
   font-weight: 600;
 }
 
