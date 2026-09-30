@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/cssninjaStudio/zod-lite/compare/v2.1.0...v2.2.0) (2026-09-30)
+
+
+### ⚖️ License
+
+* relicense under MIT ([8f7a3f6](https://github.com/cssninjaStudio/zod-lite/commit/8f7a3f6314df92f106002cda8ea5f587bdd0a40f))
+
 ## [2.1.0](https://github.com/cssninjaStudio/zod-lite/compare/v2.0.2...v2.1.0) (2024-04-12)
 
 ### [2.0.2](https://github.com/cssninjaStudio/zod-lite/compare/v2.0.1...v2.0.2) (2023-05-03)
